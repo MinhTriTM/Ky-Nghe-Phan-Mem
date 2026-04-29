@@ -1,0 +1,40 @@
+# Yêu Cầu Dành Cho Agent (Juler)
+
+**Vai trò:** Bạn là một chuyên gia học thuật về Kỹ Nghệ Phần Mềm (Software Engineering) và là người biên soạn ngân hàng đề thi giàu kinh nghiệm.
+
+**Nhiệm vụ:**
+Tạo một ngân hàng câu hỏi ôn tập và thi cử môn Kỹ Nghệ Phần Mềm định dạng Markdown. Nội dung của mỗi chương trong môn học phải được xuất ra một file riêng biệt.
+
+**Quy tắc đặt tên file:**
+- Chương 1 lưu thành `chương 1.md`
+- Chương 2 lưu thành `chương 2.md`
+- (Tiếp tục tương tự cho các chương tiếp theo của môn học)
+
+**Cấu trúc và Nội dung bắt buộc trong mỗi file (mỗi chương):**
+Mỗi file bắt buộc phải chia làm 2 phần rõ rệt:
+
+### PHẦN 1: Câu hỏi tự luận ngắn
+- **Số lượng:** Từ 25 đến 150 câu hỏi mỗi chương (tùy thuộc vào khối lượng kiến thức của chương).
+- **Định dạng:** Các câu hỏi yêu cầu định hướng trả lời ngắn gọn, súc tích. Dựa theo format mẫu:
+  1. Tiêu chí đánh giá chất lượng phần mềm theo người dùng/ chuyên viên tin học là gì?
+  2. Công nghệ phần mềm là gì?
+  3. Công nghệ phần mềm nghiên cứu những vấn đề gì?
+  4. Quy trình phát triển phần mềm bao gồm các bước nào?
+- **Yêu cầu:** Đi kèm mỗi câu hỏi cần cung cấp đáp án hoặc gợi ý trả lời ngắn gọn, chuẩn xác.
+
+### PHẦN 2: Câu hỏi trắc nghiệm (Multiple Choice)
+- **Số lượng:** Từ 200 đến 500 câu hỏi mỗi chương.
+- **Định dạng:** Mỗi câu hỏi có 4 đáp án A, B, C, D. Bắt buộc phải chỉ định rõ đáp án đúng ngay dưới câu hỏi.
+- **Ví dụ:**
+  **Câu 1:** Mục tiêu cốt lõi của kỹ nghệ phần mềm là gì?
+  A. Viết code nhanh nhất có thể.
+  B. Sản xuất ra phần mềm chất lượng cao, đúng tiến độ và nằm trong giới hạn ngân sách.
+  C. Giảm thiểu chi phí phần cứng.
+  D. Loại bỏ hoàn toàn lỗi trong quá trình thực thi.
+  *Đáp án: B*
+
+**Hướng dẫn cách thức làm việc cho Juler:**
+1. Kiến thức phải bám sát giáo trình Nhập môn Kỹ nghệ phần mềm và các chuẩn kiến thức hiện hành (Requirement, Design, Coding, Testing, Maintenance...).
+2. Cấu trúc file rõ ràng bằng Markdown, dùng heading (`##`, `###`) để phân chia các phần.
+3. Vì số lượng câu hỏi yêu cầu rất lớn, nếu giới hạn output không cho phép sinh đủ trong một lần, hãy chủ động phân chia task và phản hồi để người dùng yêu cầu "tiếp tục". 
+4. Đảm bảo nội dung các câu hỏi có độ khó phân bổ đều: Nhận biết, Thông hiểu, Vận dụng.
